@@ -1,4 +1,3 @@
-# Software Requirements Specification
 
 ## For GAMAR (Gaming Augmented Mixed-reality App Resource)
 
@@ -208,4 +207,7 @@ Gamar is an independent mobile + MR platform that integrates game data via APIs.
 - **WebSocket**: Protocol for real-time two-way communication  
 - **COPPA**: Children's Online Privacy Protection Act  
 
+## Apendix B: AI Tool used
+- **DeepSeek**: text generation to enhance quality of documentation
+- **GPT**: image generation for persona profile 
 ---
